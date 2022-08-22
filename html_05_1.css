@@ -1,0 +1,329 @@
+html{
+    background-color:rgba(252, 201, 227, 0.856);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h1{
+    background-image: url('5picture5.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 800px;
+    height: 110px;
+    font-size: 30px;
+    color:rgb(104, 1, 1);
+    text-align: left;
+    box-sizing: border-box;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: 400;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.background{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width:800px;
+    height: 140px;
+}
+.container{
+    background-color: white;
+    float: left;
+    width:560px;
+    height: 130px;
+    margin-left: 40px;
+}
+.name-1{
+    font-size: 24px;
+    color:rgb(216, 174, 120);
+}
+.name-1::after{
+    content:"$2.00";
+    margin-left:400px;
+}
+.many_points-1{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 70px;
+    margin-left: 95px;
+}
+span{
+    font-size: 16px;
+}
+
+.name-2{
+    font-size: 24px;
+    color:rgb(196, 224, 67);
+}
+.name-2::after{
+    content:"$4.50";
+    margin-left:235px;
+}
+.many_points-2{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 70px;
+    margin-left: 255px;
+}
+.name-3{
+    font-size: 24px;
+    color:rgb(216, 174, 120);
+}
+.name-3::after{
+    content:"$12.50";
+    margin-left:270px;
+}
+.many_points-3{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 80px;
+    margin-left: 210px;
+}
+.name-4{
+    font-size: 24px;
+    color:rgb(216, 174, 120);
+}
+.name-4::after{
+    content:"$10.15";
+    margin-left:270px;
+}
+.many_points-4{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 80px;
+    margin-left: 210px;
+}
+.name-5{
+    font-size: 24px;
+    color:rgb(216, 174, 120);
+}
+.name-5::after{
+    content:"$8.00";
+    margin-left:310px;
+}
+.many_points-5{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 75px;
+    margin-left: 170px;
+}
+.name-6{
+    font-size: 24px;
+    color:rgb(216, 174, 120);
+}
+.name-6::after{
+    content:"$6.50";
+    margin-left:270px;
+}
+.many_points-6{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 75px;
+    margin-left: 215px;
+}
+.name-7{
+    font-size: 24px;
+    color:rgb(216, 174, 120);
+}
+.name-7::after{
+    content:"$12.50";
+    margin-left:180px;
+}
+.many_points-7{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 85px;
+    margin-left: 290px;
+}
+.name-8{
+    font-size: 24px;
+    color:rgb(216, 174, 120);
+}
+.name-8::after{
+    content:"$3.50";
+    margin-left:230px;
+}
+.many_points-8{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 75px;
+    margin-left: 255px;
+}
+.name-9{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-9::after{
+    content:"$8.50";
+    margin-left:260px;
+}
+.many_points-9{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 75px;
+    margin-left: 225px;
+}
+.name-10{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-10::after{
+    content:"$10.50";
+    margin-left:280px;
+}
+.many_points-10{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 85px;
+    margin-left: 190px;
+}
+.name-11{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-11::after{
+    content:"$6.80";
+    margin-left:320px;
+}
+.many_points-11{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 80px;
+    margin-left: 160px;
+}
+.name-12{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-12::after{
+    content:"$4.50";
+    margin-left:240px;
+}
+.many_points-12{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 80px;
+    margin-left: 240px;
+}
+.name-13{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-13::after{
+    content:"$18.50";
+    margin-left:330px;
+}
+.many_points-13{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 90px;
+    margin-left: 130px;
+}
+.name-14{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-14::after{
+    content:"$7.15";
+    margin-left:275px;
+}
+.many_points-14{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 90px;
+    margin-left: 200px;
+}
+.name-15{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-15::after{
+    content:"$6.80";
+    margin-left:275px;
+}
+.many_points-15{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 90px;
+    margin-left: 200px;
+}
+.name-16{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-16::after{
+    content:"$4.50";
+    margin-left:140px;
+}
+.many_points-16{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 80px;
+    margin-left: 335px;
+}
+.name-17{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-17::after{
+    content:"$18.50";
+    margin-left:135px;
+}
+.many_points-17{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 90px;
+    margin-left: 335px;
+}
+.name-18{
+    font-size: 24px;
+    color:rgb(252, 163, 47);
+}
+.name-18::after{
+    content:"$7.15";
+    margin-left:340px;
+}
+.many_points-18{
+    justify-content: space-between;
+    border-bottom: 1px dotted #6D7E85;
+    height: 20px;
+    margin-top: -15px;
+    margin-right: 90px;
+    margin-left: 135px;
+}
